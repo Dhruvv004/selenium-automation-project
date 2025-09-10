@@ -1,4 +1,2 @@
 # selenium-automation-project
 
-
-
