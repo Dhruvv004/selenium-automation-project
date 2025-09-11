@@ -1,6 +1,8 @@
-# Selenium Automation Project by Dhruv Suthar
+# pytest cache directory #
 
-## Overview
-This project demonstrates automated testing using Python, Selenium, and pytest. It follows the Page Object Model (POM) design pattern for maintainable test automation.
+This directory contains data from the pytest's cache plugin,
+which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
 
-## Project Structure
+**Do not** commit this to version control.
+
+See [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) for more information.
